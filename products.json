@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Roasted guineapig",
+    "price": 60,
+    "company": "k1-go",
+    "featured": true,
+    "rating": 4
+  },
+  {
+    "name": "Chontaduro's soup",
+    "price": 20,
+    "company": "k1-go",
+    "featured": true,
+    "rating": 5
+  },
+  {
+    "name": "Seafood casserole",
+    "price": 78,
+    "company": "lemercy",
+    "featured": true,
+    "rating": 4.9
+  },
+  {
+    "name": "Fried Salmon",
+    "price": 60,
+    "company": "lemercy",
+    "rating": 4.8
+  },
+  {
+    "name": "Common Lunch",
+    "price": 10,
+    "company": "thehouse",
+    "rating": 4.2
+  },
+  {
+    "name": "Common Breakfast",
+    "price": 6,
+    "company": "thehouse",
+    "rating": 4
+  },
+  {
+    "name": "Guineapig soup",
+    "price": 30,
+    "company": "k1-go"
+  },
+  {
+    "name": "Personal pizza",
+    "price": 20,
+    "featured": true,
+    "company": "chesspizza"
+  },
+  {
+    "name": "Familiar pizza",
+    "price": 45,
+    "featured": true,
+    "company": "chesspizza"
+  },
+
+  {
+    "name": "Cheeseburguer",
+    "price": 20,
+    "company": "thecapital"
+  },
+  {
+    "name": "HeartAttack hamburguer",
+    "price": 31,
+    "featured": true,
+    "company": "thecapital"
+  },
+  {
+    "name": "BBQ wings",
+    "price": 30,
+    "company": "thecapital"
+  },
+  {
+    "name": "Fried egg with rice",
+    "price": 5,
+    "company": "k1-go"
+  },
+  {
+    "name": "Coffee",
+    "price": 1.5,
+    "company": "k1-go"
+  },
+  {
+    "name": "Caviar",
+    "price": 200,
+    "company": "lemercy"
+  },
+  {
+    "name": "Personal sushi",
+    "price": 150,
+    "company": "lemercy"
+  },
+  {
+    "name": "Eva Combo",
+    "price": 4,
+    "featured": true,
+    "company": "marianacafe"
+  },
+  {
+    "name": "Simple breakfast",
+    "price": 5,
+    "featured": true,
+    "company": "marianacafe"
+  },
+  {
+    "name": "Monster brakfast",
+    "price": 10,
+    "company": "marianacafe"
+  },
+  {
+    "name": "Natural juice",
+    "price": 2,
+    "company": "marianacafe"
+  },
+  {
+    "name": "Chicken's pop corn",
+    "price": 30,
+    "company": "mrchicken"
+  },
+  {
+    "name": "Chicken wings",
+    "price": 23,
+    "featured": true,
+    "company": "mrchicken"
+  },
+  {
+    "name": "Broaster chicken",
+    "price": 50,
+    "featured": true,
+    "company": "mrchicken"
+  }
+]
