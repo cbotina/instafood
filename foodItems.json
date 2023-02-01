@@ -2,14 +2,14 @@
   {
     "name": "Roasted guineapig",
     "price": 60,
-    "company": "k1-go",
+    "company": "k1go",
     "featured": true,
     "rating": 4
   },
   {
     "name": "Chontaduro's soup",
     "price": 20,
-    "company": "k1-go",
+    "company": "k1go",
     "featured": true,
     "rating": 5
   },
@@ -41,7 +41,7 @@
   {
     "name": "Guineapig soup",
     "price": 30,
-    "company": "k1-go"
+    "company": "k1go"
   },
   {
     "name": "Personal pizza",
@@ -75,12 +75,12 @@
   {
     "name": "Fried egg with rice",
     "price": 5,
-    "company": "k1-go"
+    "company": "k1go"
   },
   {
     "name": "Coffee",
     "price": 1.5,
-    "company": "k1-go"
+    "company": "k1go"
   },
   {
     "name": "Caviar",
