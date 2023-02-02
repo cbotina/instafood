@@ -14,7 +14,7 @@ const FoodItemSchema = mongoose.Schema({
         type: String,
         enum: {
             values: [
-                'k1go',
+                'k1-go!',
                 'lemercy',
                 'thehouse',
                 'chesspizza',
@@ -32,6 +32,10 @@ const FoodItemSchema = mongoose.Schema({
     rating: {
         type: Number,
         default: 4.5
+    },
+    featured: {
+        type: Boolean,
+        default: false
     }
 })
 
